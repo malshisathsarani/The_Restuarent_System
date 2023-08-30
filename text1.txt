@@ -1,0 +1,47 @@
+Cashier 1 Queue:
+Seya Perera - Burgers: 1
+Amanda Kaaris - Burgers: 2
+Seya Perera - Burgers: 1
+Amanda Kaaris - Burgers: 2
+
+Seya Perera - Burgers: 1
+Amanda Kaaris - Burgers: 2
+
+Seya Perera - Burgers: 1
+Amanda Kaaris - Burgers: 2
+Seya Perera - Burgers: 1
+Amanda Kaaris - Burgers: 2
+
+Seya Perera - Burgers: 1
+Amanda Kaaris - Burgers: 2
+
+
+
+Cashier 2 Queue:
+Malshi Sathsara - Burgers: 5
+Thomas Kumar - Burgers: 1
+Geetha Silva - Burgers: 5
+Malshi Sathsara - Burgers: 5
+Thomas Kumar - Burgers: 1
+Geetha Silva - Burgers: 5
+
+Malshi Sathsara - Burgers: 5
+Thomas Kumar - Burgers: 1
+Geetha Silva - Burgers: 5
+
+Malshi Sathsara - Burgers: 5
+Thomas Kumar - Burgers: 1
+Geetha Silva - Burgers: 5
+Malshi Sathsara - Burgers: 5
+Thomas Kumar - Burgers: 1
+Geetha Silva - Burgers: 5
+
+Malshi Sathsara - Burgers: 5
+Thomas Kumar - Burgers: 1
+Geetha Silva - Burgers: 5
+
+
+
+Cashier 3 Queue:
+malki apsara - Burgers: 10
+malki apsara - Burgers: 10
